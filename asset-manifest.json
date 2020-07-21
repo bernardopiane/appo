@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/appo/static/css/main.38fff912.chunk.css",
+    "main.js": "/appo/static/js/main.0647f7d2.chunk.js",
+    "main.js.map": "/appo/static/js/main.0647f7d2.chunk.js.map",
+    "runtime-main.js": "/appo/static/js/runtime-main.38c03fa0.js",
+    "runtime-main.js.map": "/appo/static/js/runtime-main.38c03fa0.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/appo/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.24058adf.chunk.js": "/appo/static/js/2.24058adf.chunk.js",
+    "static/js/2.24058adf.chunk.js.map": "/appo/static/js/2.24058adf.chunk.js.map",
+    "index.html": "/appo/index.html",
+    "precache-manifest.17020058eb44dc180df36d547e467c8c.js": "/appo/precache-manifest.17020058eb44dc180df36d547e467c8c.js",
+    "service-worker.js": "/appo/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/appo/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.38fff912.chunk.css.map": "/appo/static/css/main.38fff912.chunk.css.map",
+    "static/js/2.24058adf.chunk.js.LICENSE.txt": "/appo/static/js/2.24058adf.chunk.js.LICENSE.txt",
+    "static/media/2phones.jpg.png": "/appo/static/media/2phones.jpg.7f47ec10.png",
+    "static/media/Code Window.png": "/appo/static/media/Code Window.25edae9e.png",
+    "static/media/Screen.png": "/appo/static/media/Screen.d3564b3b.png",
+    "static/media/girl.mp4": "/appo/static/media/girl.3b8843e8.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38c03fa0.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.24058adf.chunk.js",
+    "static/css/main.38fff912.chunk.css",
+    "static/js/main.0647f7d2.chunk.js"
+  ]
+}
