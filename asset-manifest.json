@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/appo/static/css/main.38fff912.chunk.css",
-    "main.js": "/appo/static/js/main.0647f7d2.chunk.js",
-    "main.js.map": "/appo/static/js/main.0647f7d2.chunk.js.map",
+    "main.js": "/appo/static/js/main.b1cfbc5f.chunk.js",
+    "main.js.map": "/appo/static/js/main.b1cfbc5f.chunk.js.map",
     "runtime-main.js": "/appo/static/js/runtime-main.38c03fa0.js",
     "runtime-main.js.map": "/appo/static/js/runtime-main.38c03fa0.js.map",
     "static/css/2.af3c1da9.chunk.css": "/appo/static/css/2.af3c1da9.chunk.css",
     "static/js/2.24058adf.chunk.js": "/appo/static/js/2.24058adf.chunk.js",
     "static/js/2.24058adf.chunk.js.map": "/appo/static/js/2.24058adf.chunk.js.map",
     "index.html": "/appo/index.html",
-    "precache-manifest.17020058eb44dc180df36d547e467c8c.js": "/appo/precache-manifest.17020058eb44dc180df36d547e467c8c.js",
+    "precache-manifest.fa14c8bf97f0fd9eb3910d400c42fe29.js": "/appo/precache-manifest.fa14c8bf97f0fd9eb3910d400c42fe29.js",
     "service-worker.js": "/appo/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/appo/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.38fff912.chunk.css.map": "/appo/static/css/main.38fff912.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.24058adf.chunk.js",
     "static/css/main.38fff912.chunk.css",
-    "static/js/main.0647f7d2.chunk.js"
+    "static/js/main.b1cfbc5f.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d5454b97d668380135ecb62d5a0eee4",
+    "revision": "49b18106dc71fdd6fb06cdaf06e54961",
     "url": "/appo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/appo/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "fbf11ce093d05481e0ab",
+    "revision": "e7f75ee084a67fa525cd",
     "url": "/appo/static/css/main.38fff912.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/appo/static/js/2.24058adf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fbf11ce093d05481e0ab",
-    "url": "/appo/static/js/main.0647f7d2.chunk.js"
+    "revision": "e7f75ee084a67fa525cd",
+    "url": "/appo/static/js/main.b1cfbc5f.chunk.js"
   },
   {
     "revision": "0128e898adb8768ef43a",
